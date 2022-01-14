@@ -1,5 +1,5 @@
-- 👋 Hi, Je suis @R692
-- 👀 Je suis intéressé par l'informatique, l'electronique, l'économie, la mécanique et beaucoup encore, j'apprécie apprendre tous ces domaines d'études en m'amusant.
-- 🌱 Je suis en train d'apprendre les mathématique et l'informatique appliqué au sciences humaine et sociales.
-- 💞️ Je cherche à collaborer sur la robotique ou bien des projet en lien avec l'informatique, l'electronique ou l'économie.
-- 📫 Comment me joindre : https://discord.gg/WFt7fxxWHP
+- Hi, Je suis @R692
+- Je suis intéressé par l'informatique, l'electronique, l'économie, la mécanique et beaucoup encore, j'apprécie apprendre tous ces domaines d'études en m'amusant.
+- Je suis en train d'apprendre les mathématique et l'informatique appliqué au sciences humaine et sociales.
+- Je cherche à collaborer sur la robotique ou bien des projet en lien avec l'informatique, l'electronique ou l'économie.
+- Comment me joindre : https://discord.gg/WFt7fxxWHP
